@@ -4,3 +4,6 @@
 [submodule "kata-template-ruby-minitest"]
 	path = kata-template-ruby-minitest
 	url = git://github.com/jarhart/kata-template-ruby-minitest.git
+[submodule "kata-template-ruby-testunit"]
+	path = kata-template-ruby-testunit
+	url = git://github.com/jarhart/kata-template-ruby-testunit.git
