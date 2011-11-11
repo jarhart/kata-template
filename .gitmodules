@@ -1,3 +1,6 @@
 [submodule "kata-template-ruby-rspec"]
 	path = kata-template-ruby-rspec
 	url = git://github.com/jarhart/kata-template-ruby-rspec.git
+[submodule "kata-template-ruby-minitest"]
+	path = kata-template-ruby-minitest
+	url = git://github.com/jarhart/kata-template-ruby-minitest.git
