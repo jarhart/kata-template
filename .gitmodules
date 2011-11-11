@@ -7,3 +7,6 @@
 [submodule "kata-template-ruby-testunit"]
 	path = kata-template-ruby-testunit
 	url = git://github.com/jarhart/kata-template-ruby-testunit.git
+[submodule "kata-template-ruby-cucumber"]
+	path = kata-template-ruby-cucumber
+	url = git://github.com/jarhart/kata-template-ruby-cucumber.git
