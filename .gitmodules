@@ -10,3 +10,6 @@
 [submodule "kata-template-ruby-cucumber"]
 	path = kata-template-ruby-cucumber
 	url = git://github.com/jarhart/kata-template-ruby-cucumber.git
+[submodule "kata-template-scala-scalatest-flatspec"]
+	path = kata-template-scala-scalatest-flatspec
+	url = git://github.com/russ/kata-template-scala-scalatest-flatspec.git
