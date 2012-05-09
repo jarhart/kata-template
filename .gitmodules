@@ -13,3 +13,6 @@
 [submodule "kata-template-scala-scalatest-flatspec"]
 	path = kata-template-scala-scalatest-flatspec
 	url = git://github.com/russ/kata-template-scala-scalatest-flatspec.git
+[submodule "kata-template-scala-scalatest"]
+	path = kata-template-scala-scalatest
+	url = git://github.com/jarhart/kata-template-scala-scalatest.git
